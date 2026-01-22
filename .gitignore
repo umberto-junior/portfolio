@@ -1,2 +1,5 @@
 # Local Netlify folder
 .netlify
+
+# Local Package file
+.package-lock.json
